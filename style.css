@@ -1,0 +1,125 @@
+body{
+    background-image:url("images/concrete-texture.png");
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+    font-size:16px;
+    color: #162329;
+    line-height:24px;
+    max-width: 1080px;
+    margin: auto;
+}
+
+a:link{
+    color:#36E295;
+} 
+
+a:visited{
+    color:#36E295;
+}
+
+header{
+    padding:30px;
+}
+
+nav{
+    background-color: #162329;
+    padding-right:30px;
+    padding-bottom:10px;
+    text-align:right;
+
+}
+
+nav a:link{
+    color:#fff;
+    font-size:12px;
+    text-decoration: none;
+    text-transform:uppercase;
+    padding: 5px;
+}
+
+nav a:hover{
+    background-color:#36E295;
+    padding: 5px;
+}
+
+nav a:visited{ 
+    color:#eee;
+    padding: 5px;
+}
+    
+main{
+    background-color:#fff;
+    padding:30px;
+}
+
+footer{
+    background-color:#162329;
+    padding:30px;
+    color:#fff;
+}
+
+#heroimageHome{
+    background-image: url("images/coffee.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    color:#fff;
+    font-family: 'Roboto', san-serif; 
+    font-weight:100;   
+    font-size: 60px;
+    line-height:200px;
+    text-align:center;
+    padding:100px;
+}
+
+#heroimageInspiration{
+    background-image: url("images/eyes.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    color:#fff;
+    font-family: 'Roboto', san-serif; 
+    font-weight:100;   
+    font-size: 60px;
+    line-height:200px;
+    text-align:center;
+    padding:100px;
+}
+#heroimageAssignments{
+    background-image: url("images/abstract-blue.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    color:#fff;
+    font-family: 'Roboto', san-serif; 
+    font-weight:100;   
+    font-size: 60px;
+    line-height:200px;
+    text-align:center;
+    padding:100px;
+}
+
+#heroimageResources{
+    background-image: url("images/books.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+    color:#fff;
+    font-family: 'Roboto', san-serif; 
+    font-weight:100;   
+    font-size: 60px;
+    line-height:200px;
+    text-align:center;
+    padding:100px;
+}
+
+h1{ 
+   font-family: 'Roboto', sans-serif;
+   font-weight:100;
+}
+
+h2{
+   font-family: 'Roboto', sans-serif;
+   font-weight:100;
+}
+
